@@ -1,0 +1,15 @@
+*.a
+*.config
+*.creator
+*.files
+*.includes
+*.o
+*.out
+*.swp
+*.user
+.idea
+a.out
+core
+*.core
+.DS_Store
+.ipynb_checkpoints
